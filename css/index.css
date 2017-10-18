@@ -1,0 +1,73 @@
+#logo{
+	font-family: 'Bubblegum Sans', cursive;
+	font-size: 45px;
+}
+
+
+#eslogan{
+	font-family: 'Bubblegum Sans', cursive;
+	font-size: 70px;
+	text-align: center;
+	color: #ef5350;
+}
+
+#fondo{
+	background-image: url('../img/fondo.png');
+	background-size: 100% 100%;
+}
+
+#fuente{
+	font-family: 'Bubblegum Sans', cursive;
+	font-size: 20px;
+}
+
+.nav-wrapper{
+	color: #f7113b;
+}
+
+#btnregistro{
+	font-family: 'Bubblegum Sans', cursive;
+	font-size: 25px;
+}
+
+#submenu{
+	font-family: 'Bubblegum Sans', cursive;
+	font-size: 22px;
+	color: #f44336;
+}
+
+#temas{
+	font-family: 'Bubblegum Sans', cursive;
+	font-size: 25px;
+	color: yellow;
+}
+
+#temas1{
+	font-family: 'Bubblegum Sans', cursive;
+	font-size: 25px;
+	color: teal;
+}
+
+#titulo{
+	font-family: 'Bubblegum Sans', cursive;
+	font-size: 35px;
+	color: black;
+	
+}
+#titulo1{
+	font-family: 'Bubblegum Sans', cursive;
+	font-size: 35px;
+}
+
+@media screen and (max-width: 800px){
+	#menu-tabs{
+		display: none;
+	}
+
+	#left-menu{
+		display: flex;
+		align-items:center;
+		flex-direction: column;
+		justify-content: space-around;
+	}
+}

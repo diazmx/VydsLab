@@ -1,0 +1,84 @@
+#logo{
+	font-family: 'Bubblegum Sans', cursive;
+	font-size: 45px;
+}
+
+#eslogan{
+	font-family: 'Bubblegum Sans', cursive;
+	font-size: 50px;
+	text-align: center;
+	text-decoration: none;
+}
+
+#fondo1{
+	background-image: url('../img/sim.png');
+}
+
+#columnaleft{
+	padding-left: 25px;
+}
+
+#columnaright{
+	border-left: 1px solid #ef5350;
+	padding: 0px 25px 0px 25px;
+}
+
+	#titleright{
+		font-family: 'Bubblegum Sans', cursive;
+		font-size: 50px;
+		text-decoration: none;
+		color: #ef5350;
+	}
+
+	#subtright{
+		font-family: 'Bubblegum Sans', cursive;
+		font-size: 23px;
+		padding-left: 10%;
+	}
+
+		#subtright:hover{
+			background-color: #dfe2e1;
+		}
+
+#atras{
+	font-family: 'Bubblegum Sans', cursive;
+	font-size: 25px;
+	text-align: center;
+	text-decoration: none;
+}
+
+#fuente{
+	font-family: 'Bubblegum Sans', cursive;
+	font-size: 20px;
+}
+
+.nav-wrapper{
+	color: #f7113b;
+}
+
+#btnregistro{
+	font-family: 'Bubblegum Sans', cursive;
+	font-size: 25px;
+}
+
+#submenu{
+	font-family: 'Bubblegum Sans', cursive;
+	font-size: 18px;
+}
+
+#temas{
+	font-family: 'Bubblegum Sans', cursive;
+	font-size: 25px;
+	color: #e57373;
+}
+
+#temas1{
+	font-family: 'Bubblegum Sans', cursive;
+	font-size: 25px;
+	color: teal;
+}
+
+#subti{
+	font-family: 'Bubblegum Sans', cursive;
+	font-size: 35px;
+}
